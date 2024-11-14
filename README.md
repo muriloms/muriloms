@@ -1,12 +1,40 @@
 
 <h1 align="center">Hi 👋, I'm Murilo</h1>
+<h4 align="center">ARTIFICIAL INTELLIGENCE | DATA SCIENCE | SIMULATION | COMPLEXY SYSTEMS</h4>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
-    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
-    <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
-    <a href="https://huggingface.co/muriloms" target="_blank"> <img alt="Linkedin" width="32px" src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png"/> </a>
+    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
+    <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
 </p>  
+
+<!-- Projetos -->
+<div align="center">
+  <h2>My Projects</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 600px; margin: auto;">
+    <a href="https://github.com/seu-usuario/generative-ai" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+        <h3>Generative AI</h3>
+      </div>
+    </a>
+    <a href="https://github.com/seu-usuario/computational-vision" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+        <h3>Computational Vision</h3>
+      </div>
+    </a>
+    <a href="https://github.com/seu-usuario/data-science-ml" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+        <h3>Data Science and ML</h3>
+      </div>
+    </a>
+    <a href="https://github.com/seu-usuario/game-dev" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+        <h3>Game Dev</h3>
+      </div>
+    </a>
+  </div>
+</div>
+
 
 <!-- Experiencia e Formacao -->
 <div align="left">
