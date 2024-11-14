@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="40px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
-
-<a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="40px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
-
+    <a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="40px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
+    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="40px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
 </p>  
 
 ### Softwares:
