@@ -10,27 +10,18 @@
 
 <!-- Experiencia e Formacao -->
 <div align="left">
-  <h2>Experience</h2>
-  <div>
-    <h3>Specialist in Mathematical Modeling</h3>
-    <p><strong>CTC – Centro de Tecnologia Canavieira</strong> | 2023 – Present</p>
-  </div>
-  <div>
-    <h3>Data Scientist</h3>
-    <p><strong>MAPE Solutions</strong> | 2018 – 2023</p>
-  </div>
-  <div>
-    <h3>Programmer & Game Designer</h3>
-    <p><strong>Shido Game Studio</strong> | 2020 – 2022</p>
-  </div>
-  <div>
-    <h3>Researcher</h3>
-    <p><strong>Complex Systems Modeling – USP</strong> | 2018 – 2020</p>
-  </div>
+  <h3>Experience</h3>
+  <ul font-size: 10px>
+    <li>Specialist in Mathematical Modeling | CTC – Centro de Tecnologia Canavieira | 2023 – Present</li>
+    <li>Data Scientist | MAPE Solutions | 2018 – 2023</li>
+    <li>Programmer & Game Designer | Shido Game Studios | 2020 – 2022</li>
+    <li>Researcher | Complex Systems Modeling – USP | 2018 – 2020</li>
+    <li>Researcher | Applied Economics - UFSCar | 2016 – 2018</li>
+  </ul>
 </div>
 
 <div align="left">
-  <h2>Education</h2>
+  <h3>Education</h3>
   <ul>
     <li>Ph.D. in Economic Development | State University of Campinas | 2020 – Present</li>
     <li>Master’s Degree in Modeling Complex Systems | University of São Paulo | 2018 – 2020</li>
@@ -43,7 +34,7 @@
 </div>
 
 <div align="left">
-  <h2>Specializations</h2>
+  <h3>Specializations</h3>
   <ul>
     <li>Machine Learning Engineer Specialization | Data Science Academy</li>
     <li>Artificial Intelligence Engineer Specialization | Data Science Academy</li>
