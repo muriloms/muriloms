@@ -6,10 +6,12 @@
     <a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
     <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
     <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
+    <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=MXrXf3oAAAAJ" target="_blank"> <img alt="GoogleScholar" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/googlescholar.png"/> </a>
 </p>  
 
 <!-- Projetos -->
 <div align="center">
+  <h1></h1>
   <h3>Projects</h3>
   <table>
     <tr>
@@ -32,7 +34,7 @@
       <td align="center" width="50%">
         <a href="https://github.com/seu-usuario/data-science-ml" style="text-decoration: none;">
           <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>Data Science and ML</h3>
+            <h3>DS & ML</h3>
           </div>
         </a>
       </td>
