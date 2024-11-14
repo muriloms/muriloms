@@ -33,7 +33,7 @@
     <img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="40px"/>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <th>Linguagens</th>
     <th>Tools</th>
