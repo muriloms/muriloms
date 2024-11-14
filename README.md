@@ -19,21 +19,15 @@
         <a href="https://github.com/muriloms/genai-cv" target="_blank">GenAI & CV</a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/muriloms/ds-ml" target="_blank">
-            <h4>DS & ML</h4>
-        </a>
+        <a href="https://github.com/muriloms/ds-ml" target="_blank">DS & ML</a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/muriloms/study-repository" target="_blank">
-            <h4>Simulation</h4>
-        </a>
+        <a href="https://github.com/muriloms/study-repository" target="_blank">Simulation</a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/muriloms/game-dev" target="_blank">
-            <h4>Game Dev</h4>
-        </a>
+        <a href="https://github.com/muriloms/game-dev" target="_blank">Game Dev</a>
       </td>
     </tr>
   </table>
