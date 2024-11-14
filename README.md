@@ -16,14 +16,15 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/seu-usuario/generative-ai" style="text-decoration: none;">
+        <a href="https://github.com/muriloms/genai-cv" style="text-decoration: none;">
           <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>GenAI | NLP | CV</h3>
+            <h3>GenAI & CV</h3>
+            <p>Texto descritivo </p>
           </div>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/seu-usuario/computational-vision" style="text-decoration: none;">
+        <a href="https://github.com/muriloms/ds-ml" style="text-decoration: none;">
           <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
             <h3>DS & ML</h3>
           </div>
@@ -32,14 +33,14 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/seu-usuario/data-science-ml" style="text-decoration: none;">
+        <a href="https://github.com/muriloms/study-repository" style="text-decoration: none;">
           <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
             <h3>Simulation</h3>
           </div>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/seu-usuario/game-dev" style="text-decoration: none;">
+        <a href="https://github.com/muriloms/game-dev" style="text-decoration: none;">
           <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
             <h3>Game Dev</h3>
           </div>
