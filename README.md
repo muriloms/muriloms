@@ -9,8 +9,8 @@
 </p>  
 
 <!-- Projetos -->
-<div align="center">
-  <h2>My Projects</h2>
+<div >
+  <h3>Projects</h3>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 600px; margin: auto;">
     <a href="https://github.com/seu-usuario/generative-ai" style="text-decoration: none;">
       <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
@@ -72,7 +72,7 @@
   </ul>
 </div>
 
-
+<h1 align="center">---</h1>
 <!-- Icones linguagens e software -->
 
 <div align="center">
@@ -85,6 +85,7 @@
         <img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/>
         <img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/>
     </div>
+    <h1 align="center"></h1>
     <!-- Softwares -->
     <div style="display: inline-block; margin: 20px;">
         <strong>Tools & Softwares</strong><br>
