@@ -79,25 +79,25 @@
     <div style="display: inline-block; margin: 20px;">
         <strong>Languages</strong><br>
         <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="30px"/></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/></a>
+        <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/></a>
+        <a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/></a>
+        <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/></a>
     </div>
     <h1 align="center"></h1>
     <!-- Softwares -->
     <div style="display: inline-block; margin: 20px;">
         <strong>Tools & Softwares</strong><br>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/pytorch.png" alt="PyTorch" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/tensorflow.png" alt="TensorFlow" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/vscode.png" alt="VSCode" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/illustrator.png" alt="Illustrator" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/photoshop.png" alt="Photoshop" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unity.png" alt="Unity" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unrealengine.png" alt="Unreal Engine" width="30px"/>
+        <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="30px"/></a>
+        <a href="https://www.docker.com//" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="30px"/></a>
+        <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/pytorch.png" alt="PyTorch" width="30px"/></a>
+        <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/tensorflow.png" alt="TensorFlow" width="30px"/></a>
+        <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="30px"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/vscode.png" alt="VSCode" width="30px"/></a>
+        <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/illustrator.png" alt="Illustrator" width="30px"/></a>
+        <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/photoshop.png" alt="Photoshop" width="30px"/></a>
+        <a href="https://unity.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/unity.png" alt="Unity" width="30px"/></a>
+        <a href="https://www.unrealengine.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/unrealengine.png" alt="Unreal Engine" width="30px"/></a>
     </div>
 </div>
 
