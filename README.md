@@ -9,39 +9,27 @@
 </p>  
 
 <!-- Experiencia e Formacao -->
-<div align="center">
+<div align="left">
   <h2>Experience</h2>
-
   <div>
     <h3>Specialist in Mathematical Modeling</h3>
     <p><strong>CTC – Centro de Tecnologia Canavieira</strong> | 2023 – Present</p>
-    <p>Developing mathematical models to analyze parameters in sugarcane crops, agent-based models for complex systems, and AI platforms for querying internal data.</p>
-    <p><strong>Main Skills:</strong> Modeling, Data Science, AI, Python, C++, Qt6.</p>
   </div>
-
   <div>
     <h3>Data Scientist</h3>
     <p><strong>MAPE Solutions</strong> | 2018 – 2023</p>
-    <p>Developed health analysis models and a Covid analysis platform; contributed to projects with the Ministry of Health.</p>
-    <p><strong>Main Skills:</strong> Data Analysis, Python, R, SQL, Power BI.</p>
   </div>
-
   <div>
     <h3>Programmer & Game Designer</h3>
     <p><strong>Shido Game Studio</strong> | 2020 – 2022</p>
-    <p>Directed projects and programmed in Unreal Engine and Unity for an indie studio, with three published games.</p>
-    <p><strong>Main Skills:</strong> C#, C++, Project Management, AI Algorithms.</p>
   </div>
-
   <div>
     <h3>Researcher</h3>
     <p><strong>Complex Systems Modeling – USP</strong> | 2018 – 2020</p>
-    <p>Conducted research and published on mathematical modeling and complex systems, with projects for public health analysis.</p>
-    <p><strong>Main Skills:</strong> Mathematical Modeling, Machine Learning, Python, C++.</p>
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>Education</h2>
   <ul>
     <li>Ph.D. in Economic Development | State University of Campinas | 2020 – Present</li>
@@ -54,7 +42,7 @@
   </ul>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>Specializations</h2>
   <ul>
     <li>Machine Learning Engineer Specialization | Data Science Academy</li>
