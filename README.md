@@ -4,38 +4,51 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
-    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
-    <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
+    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
+    <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
 </p>  
 
 <!-- Projetos -->
-<div >
+<div align="center">
   <h3>Projects</h3>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 600px; margin: auto;">
-    <a href="https://github.com/seu-usuario/generative-ai" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-        <h3>Generative AI</h3>
-      </div>
-    </a>
-    <a href="https://github.com/seu-usuario/computational-vision" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-        <h3>Computational Vision</h3>
-      </div>
-    </a>
-    <a href="https://github.com/seu-usuario/data-science-ml" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-        <h3>Data Science and ML</h3>
-      </div>
-    </a>
-    <a href="https://github.com/seu-usuario/game-dev" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-        <h3>Game Dev</h3>
-      </div>
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/seu-usuario/generative-ai" style="text-decoration: none;">
+          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+            <h3>Generative AI</h3>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/seu-usuario/computational-vision" style="text-decoration: none;">
+          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+            <h3>Computational Vision</h3>
+          </div>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/seu-usuario/data-science-ml" style="text-decoration: none;">
+          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+            <h3>Data Science and ML</h3>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/seu-usuario/game-dev" style="text-decoration: none;">
+          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
+            <h3>Game Dev</h3>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
+<h1 align="center"></h1>
 <!-- Experiencia e Formacao -->
 <div align="left">
   <h3>Experience</h3>
@@ -72,7 +85,7 @@
   </ul>
 </div>
 
-<h1 align="center">---</h1>
+<h1 align="center"></h1>
 <!-- Icones linguagens e software -->
 
 <div align="center">
@@ -102,19 +115,3 @@
     </div>
 </div>
 
-
-
-<!--
-**muriloms/muriloms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
