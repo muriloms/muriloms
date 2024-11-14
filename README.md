@@ -78,11 +78,11 @@
     <!-- Linguagens -->
     <div style="display: inline-block; margin: 20px;">
         <strong>Languages</strong><br>
-        <img href="https://www.python.org/" target="_blank" src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/>
+        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="30px"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/></a>
     </div>
     <h1 align="center"></h1>
     <!-- Softwares -->
