@@ -16,9 +16,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/muriloms/genai-cv" target="_blank">
-            <h4>GenAI & CV</h4>
-        </a>
+        <h4 href="https://github.com/muriloms/genai-cv" target="_blank">GenAI & CV</h4>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/ds-ml" target="_blank">
