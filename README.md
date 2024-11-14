@@ -8,32 +8,29 @@
     <a href="https://huggingface.co/muriloms" target="_blank"> <img alt="Linkedin" width="42px" src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png"/> </a>
 </p>  
 
-### Languages, Tools, and Softwares
-
-
 <div align="center">
     <!-- Linguagens -->
     <div style="display: inline-block; margin: 20px;">
-        <strong>Linguagens</strong><br>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="40px"/>
+        <strong>Languages</strong><br>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/>
     </div>
     <!-- Softwares -->
     <div style="display: inline-block; margin: 20px;">
         <strong>Tools & Softwares</strong><br>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/pytorch.png" alt="PyTorch" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/tensorflow.png" alt="TensorFlow" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/vscode.png" alt="VSCode" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/illustrator.png" alt="Illustrator" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/photoshop.png" alt="Photoshop" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unity.png" alt="Unity" width="40px"/>
-        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unrealengine.png" alt="Unreal Engine" width="40px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/pytorch.png" alt="PyTorch" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/tensorflow.png" alt="TensorFlow" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/vscode.png" alt="VSCode" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/illustrator.png" alt="Illustrator" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/photoshop.png" alt="Photoshop" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unity.png" alt="Unity" width="30px"/>
+        <img src="https://github.com/muriloms/muriloms/blob/main/imgs/unrealengine.png" alt="Unreal Engine" width="30px"/>
     </div>
 </div>
 
