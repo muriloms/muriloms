@@ -17,32 +17,24 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/genai-cv" target="_blank">
-          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>GenAI & CV</h3>
-          </div>
+            <h4>GenAI & CV</h4>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/ds-ml" target="_blank">
-          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>DS & ML</h3>
-          </div>
+            <h4>DS & ML</h4>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/study-repository" target="_blank">
-          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>Simulation</h3>
-          </div>
+            <h4>Simulation</h4>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/game-dev" target="_blank">
-          <div style="border: 1px solid #ddd; padding: 20px; text-align: center; border-radius: 10px;">
-            <h3>Game Dev</h3>
-          </div>
+            <h4>Game Dev</h4>
         </a>
       </td>
     </tr>
