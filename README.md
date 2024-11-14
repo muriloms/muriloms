@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="26px" src="https://github.com/muriloms/imgs/linkedin.png"/> </a>
+<a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="26px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
 
   <a href="https://www.linkedin.com/in/msmurilo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="msmurilo"/></a> 
   <a href="https://medium.com/@msmurilo" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="msmurilo" /></a> 
