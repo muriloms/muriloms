@@ -21,12 +21,12 @@
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="40px"/>
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="40px"/>
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="40px"/>
-<img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="40px"/>
 </div>
 
 <!-- Tools -->
 <div style="display: inline-block; margin: 20px;">
 <strong>Tools</strong><br>
+<img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="40px"/>
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="40px"/>
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/kubernetes.png" alt="Kubernetes" width="40px"/>
 <img src="https://github.com/muriloms/muriloms/blob/main/imgs/mlflow.png" alt="MLFlow" width="40px"/>
