@@ -21,6 +21,12 @@
       <td align="center" width="50%">
         <a href="https://github.com/muriloms/ds-ml" target="_blank">DS & ML</a>
       </td>
+        <td align="center" width="50%">
+        <a href="https://github.com/muriloms/study-repository" target="_blank">Simulation</a>
+      </td>
+         <td align="center" width="50%">
+        <a href="https://github.com/muriloms/game-dev" target="_blank">Game Dev</a>
+      </td>
     </tr>
     <tr>
       <td align="center" width="50%">
