@@ -24,7 +24,7 @@
         <td align="center" width="50%">
         <a href="https://github.com/muriloms/study-repository" target="_blank">Simulation</a>
       </td>
-         <td align="center" width="50%">
+         <td align="center">
         <a href="https://github.com/muriloms/game-dev" target="_blank">Game Dev</a>
       </td>
     </tr>
