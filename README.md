@@ -40,7 +40,7 @@
   <h3>Experience</h3>
   <ul font-size: 10px>
     <li>Artificial Intelligence Specialist | Foursys | 2025 – Present</li>
-    <li>Mathematical Modeling Specialist | CTC – Centro de Tecnologia Canavieira | 2023 – Present</li>
+    <li>Mathematical Modeling Specialist | CTC – Centro de Tecnologia Canavieira | 2023 – 2024</li>
     <li>Data Scientist | MAPE Solutions | 2018 – 2023</li>
     <li>Programmer & Game Designer | Shido Game Studios | 2020 – 2022</li>
     <li>Researcher | Complex Systems Modeling – USP | 2018 – 2020</li>
