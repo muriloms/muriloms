@@ -1,102 +1,78 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Murilo</h1>
-<h4 align="center">ARTIFICIAL INTELLIGENCE | DATA SCIENCE | SIMULATION | COMPLEXY SYSTEMS</h4>
+# 👋 Hi, I'm Murilo
+
+### Artificial Intelligence Specialist | Data Scientist | Simulation & Complex Systems
+
+<p>
+    <a href="https://www.linkedin.com/in/msmurilo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://medium.com/@msmurilo" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="https://www.artstation.com/mrespingo" target="_blank">
+        <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+    </a>
+    <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=MXrXf3oAAAAJ" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+    </a>
+</p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+Currently working as an **AI Specialist at Foursys**, I specialize in developing intelligent systems, data science solutions, and complex simulations. With a strong background in mathematical modeling and a Ph.D. in Applied Mathematics (in progress), I bridge the gap between theoretical research and practical AI applications.
+
+**🎓 Education:**
+- Ph.D. in Applied Mathematics - State University of Campinas (2020 – Present)
+- Master's in Complex Systems Modeling - University of São Paulo (2018 – 2020)
+- Master's in Economics - Federal University of São Carlos (2016 – 2018)
+- Bachelor's in Agronomic Engineering - Federal University of Lavras (2009 – 2015)
+- MBA in Data Science - University of São Paulo (2024 – 2025)
+- MBA in Project Management - University of São Paulo (2019 – 2021)
+- MBA in Agribusiness - University of São Paulo (2016 – 2018)
+
+**🏆 Specializations:**
+- Machine Learning Engineer - Data Science Academy
+- Artificial Intelligence Engineer - Data Science Academy
+- Deep Learning - DeepLearning.AI (Coursera)
+- Computer Vision & Deep Learning - PyImage Search University
+- Data Science - Data Science Academy
+
+---
+
+### 💼 Featured Projects
+
+<div align="center">
+
+| **AI & Computer Vision** | **Data Science & ML** | **Simulation** | **Game Development** |
+|:---:|:---:|:---:|:---:|
+| [GenAI & CV](https://github.com/muriloms/genai-cv) | [DS & ML](https://github.com/muriloms/ds-ml) | [Simulation](https://github.com/muriloms/study-repository) | [Game Dev](https://github.com/muriloms/game-dev) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/msmurilo/" target="_blank"> <img alt="Linkedin" width="38px" src="https://github.com/muriloms/muriloms/blob/main/imgs/linkedin.png"/> </a>
-    <a href="https://medium.com/@msmurilo" target="_blank"> <img alt="Medium" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/medium.png"/> </a>
-    <a href="https://www.artstation.com/mrespingo" target="_blank"> <img alt="Artstation" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/artstation.png"/> </a>
-    <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=MXrXf3oAAAAJ" target="_blank"> <img alt="GoogleScholar" width="30px" src="https://github.com/muriloms/muriloms/blob/main/imgs/googlescholar.png"/> </a>
-</p>  
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</p>
 
-<!-- Projetos -->
-<div align="center">
-  <h1></h1>
-  <h3>Projects</h3>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/muriloms/genai-cv" target="_blank">GenAI & CV</a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/muriloms/ds-ml" target="_blank">DS & ML</a>
-      </td>
-        <td align="center" width="50%">
-        <a href="https://github.com/muriloms/study-repository" target="_blank">Simulation</a>
-      </td>
-         <td align="center">
-        <a href="https://github.com/muriloms/game-dev" target="_blank">Game Dev</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<h1 align="center"></h1>
-<!-- Experiencia e Formacao -->
-<div align="left">
-  <h3>Experience</h3>
-  <ul font-size: 10px>
-    <li>Artificial Intelligence Specialist | Foursys | 2025 – Present</li>
-    <li>Mathematical Modeling Specialist | CTC – Centro de Tecnologia Canavieira | 2023 – 2024</li>
-    <li>Data Scientist | MAPE Solutions | 2018 – 2023</li>
-    <li>Programmer & Game Designer | Shido Game Studios | 2020 – 2022</li>
-    <li>Researcher | Complex Systems Modeling – USP | 2018 – 2020</li>
-    <li>Researcher | Applied Economics - UFSCar | 2016 – 2018</li>
-  </ul>
-</div>
-
-<div align="left">
-  <h3>Education</h3>
-  <ul>
-    <li>Ph.D. in Economic Development | State University of Campinas | 2020 – Present</li>
-    <li>Master’s Degree in Modeling Complex Systems | University of São Paulo | 2018 – 2020</li>
-    <li>Master’s Degree in Economics | Federal University of São Carlos | 2016 – 2018</li>
-    <li>Bachelor's in Agronomic Engineering | Federal University of Lavras | 2009 – 2015</li>
-    <li>MBA in Data Science | ICMC - University of São Paulo | 2024 – 2025</li>
-    <li>MBA in Project Management | Esalq - University of São Paulo | 2019 – 2021</li>
-    <li>MBA in Agribusiness | Esalq - University of São Paulo | 2016 – 2018</li>
-  </ul>
-</div>
-
-<div align="left">
-  <h3>Specializations</h3>
-  <ul>
-    <li>Machine Learning Engineer Specialization | Data Science Academy</li>
-    <li>Artificial Intelligence Engineer Specialization | Data Science Academy</li>
-    <li>Deep Learning Specialization | DeepLearning.AI – Coursera</li>
-    <li>Computer Vision & Deep Learning | PyImage Search University</li>
-    <li>Data Science Specialization | Data Science Academy</li>
-  </ul>
-</div>
-
-<h1 align="center"></h1>
-<!-- Icones linguagens e software -->
-
-<div align="center">
-    <!-- Linguagens -->
-    <div style="display: inline-block; margin: 20px;">
-        <strong>Languages</strong><br>
-        <a href="https://www.python.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/python.png" alt="Python" width="30px"/></a>
-        <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/cpp.png" alt="C++" width="30px"/></a>
-        <a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/r.png" alt="R" width="30px"/></a>
-        <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/csharp.png" alt="C#" width="30px"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/git.png" alt="Git" width="30px"/></a>
-    </div>
-    <h1 align="center"></h1>
-    <!-- Softwares -->
-    <div style="display: inline-block; margin: 20px;">
-        <strong>Tools & Softwares</strong><br>
-        <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/linux.png" alt="Linux" width="30px"/></a>
-        <a href="https://www.docker.com//" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/docker.png" alt="Docker" width="30px"/></a>
-        <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/pytorch.png" alt="PyTorch" width="30px"/></a>
-        <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/tensorflow.png" alt="TensorFlow" width="30px"/></a>
-        <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/huggingface.png" alt="Hugging Face" width="30px"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/vscode.png" alt="VSCode" width="30px"/></a>
-        <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/illustrator.png" alt="Illustrator" width="30px"/></a>
-        <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/photoshop.png" alt="Photoshop" width="30px"/></a>
-        <a href="https://unity.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/unity.png" alt="Unity" width="30px"/></a>
-        <a href="https://www.unrealengine.com/" target="_blank"><img src="https://github.com/muriloms/muriloms/blob/main/imgs/unrealengine.png" alt="Unreal Engine" width="30px"/></a>
-    </div>
-</div>
+---
 
